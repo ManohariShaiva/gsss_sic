@@ -1,0 +1,48 @@
+PYTHON MODULES: pip,sys,mat
+
+
+
+Floating point numbers are stored using IEEE standards.
+
+RELATIONAL OPERATORS:
+keeping two relational operatords we can perform all the operations 
+which we have performed today in the class.What are those two operators?
+
+DAY1:
+Conditional Programmin:
+*Tax calculation problem
+*Farmer problem
+*Student result Problem 
+
+Check if a number is Perfect Square
+Check if a year is Leap year
+
+DAY2:
+Problems on Loops:
+* implement range function
+* accept the number of lines of the shape and draw the following shapes:
+1. X shape
+2. Hollow Square
+3. X inside hollow Square
+4. Pascal Trinagle
+5. Rhombus
+
+Accept a number and  implement following programs:
+1. Find sum of Even placed digits
+2. Find sum of odd placed Even digits in the number
+3. Find 2nd sum smallest digit in the number.
+4. Find 2nd biggest digit and also check if 2nd biggest digit is NO
+5. Find sum of composite digits of the number
+
+
+DAY 3:
+
+1.learn output formatting of %s and %defined
+
+
+2.why in python we do not have the increment and decrement operators
+
+
+3.Learn about __main__
+
+4.what is pep3 and what is pythonic

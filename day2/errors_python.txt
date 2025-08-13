@@ -1,0 +1,5 @@
+SyntaxError : invaid digit '8' in octal literal
+NameError : b is not defined
+RunTimeError : 
+IndexError : list index out of range
+ValueError : invalid literal for int() with base 10: 'math_table.py'
