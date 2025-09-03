@@ -1,1 +1,0 @@
-print(print('i love python'))

@@ -1,2 +1,0 @@
-SLICING :
-    1. print(capita)
