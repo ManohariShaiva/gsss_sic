@@ -1,0 +1,25 @@
+in cmd the line we give: python math_table.py 15 -> this is a string, we told this to OS 
+here python is application
+
+range function in Python:
+
+range(10) : start with 0 and end with 9
+
+range(2,10) : start with 2 and end with 9
+
+range(2,100,5) : start with 2 
+
+
+def my_range(*var_args) #this is capable of taking any number of arguments and it is a tuple
+
+yield: give the vlaue
+
+-----------------------------------------------------------
+
+
+Exception Handling
+
+def my_function():
+try:
+    for number in sys.argv[1:]:
+        
